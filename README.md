@@ -6,6 +6,3 @@ hey!!!!!!!
 
 asdfa
 sdf
-asd
-fas
-dfasdfasdf
