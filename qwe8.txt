@@ -12,3 +12,4 @@ newline for commit 8
 newline for commit 8
 newline for commit 8
 newline for commit 8
+newline for commit 8
