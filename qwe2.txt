@@ -942,3 +942,4 @@ newline for commit 2
 newline for commit 2
 newline for commit 2
 newline for commit 2
+newline for commit 2
