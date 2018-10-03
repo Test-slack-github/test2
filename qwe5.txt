@@ -266,3 +266,4 @@ newline for commit 5
 newline for commit 5
 newline for commit 5
 newline for commit 5
+newline for commit 5
