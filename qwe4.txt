@@ -657,3 +657,4 @@ newline for commit 4
 newline for commit 4
 newline for commit 4
 newline for commit 4
+newline for commit 4
