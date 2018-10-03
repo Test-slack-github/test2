@@ -143,3 +143,4 @@ newline for commit 3
 newline for commit 3
 newline for commit 3
 newline for commit 3
+newline for commit 3
