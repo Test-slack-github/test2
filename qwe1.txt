@@ -863,3 +863,4 @@ newline for commit 1
 newline for commit 1
 newline for commit 1
 newline for commit 1
+newline for commit 1
