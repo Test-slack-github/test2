@@ -156,3 +156,4 @@ newline for commit 10
 newline for commit 10
 newline for commit 10
 newline for commit 10
+newline for commit 10
